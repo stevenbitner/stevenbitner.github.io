@@ -1,10 +1,10 @@
 ---
 title: "Finding segments and triangles spanned by points in R<sup>3</sup>"
 collection: publications
-permalink: /publication/segments-and-triangles-cccg-2007
+permalink: /publication/segments-and-triangles-ipl-2009
 excerpt: 'Given a set _S_ of _n_ points in R<sup>3</sup> we consider finding the farthest line segment spanned by _S_ from a query point _q_ given as part of the input, and finding the minimum and maximum area triangles spanned by _S_.'
 date: 2007-08-20
-venue: 'CCCG 2007'
+venue: 'Information Processing Letters'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0020019009002361'
 citation: ''
 ---

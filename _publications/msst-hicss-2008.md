@@ -3,8 +3,8 @@ title: "Finding a Minimum-Sum Dipolar Spanning Tree in R<sup>3</sup>"
 collection: publications
 permalink: /publication/msst-hicss-2008
 excerpt: 'We disuss the problem of finding the minimum-sum dipolar spanning tree (MSST) in R<sup>3</sup>.'
-date: 2007-08-20
-venue: 'CCCG 2007'
+date: 2008-08-20
+venue: 'HICSS 2008'
 paperurl: 'https://ieeexplore.ieee.org/document/4439175'
 citation: ''
 ---
