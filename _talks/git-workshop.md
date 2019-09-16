@@ -1,7 +1,7 @@
 ---
 title: "Git and GitHub"
 collection: talks
-type: "Talk"
+type: "Lecture and Workshop"
 permalink: /talks/2012-03-01-talk-1
 venue: "The University of West Florida"
 date: 2019-09-10
