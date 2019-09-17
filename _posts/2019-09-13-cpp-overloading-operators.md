@@ -44,7 +44,15 @@ You can also try to fix this through coding standards, but enforcement can becom
 
 ## Sample from a header (.hpp) file
 ```cpp
-friend std::ostream& operator<< (std::ostream& out, const Foo& objectToDisplay);
+#include <iostream>
+
+class Foo
+{
+	friend std::ostream& operator<< (std::ostream& out, const Foo& objectToDisplay);
+
+	private:
+		int value = 77;
+};
 ```
 
 ## Sample from an implementation (.cpp) file
@@ -84,10 +92,7 @@ Because of how `<<` is called, it isn't called within the **context** of a class
 Thus, when we define it, it is not resolved to the scope of the class.
 Above, see that the function declaration isn't given like this:
 ```cpp
-class Foo
-{
-	friend std::ostream& Foo::operator<< (std::ostream& out, const Foo& objectToDisplay)
-};
+friend std::ostream& Foo::operator<< (std::ostream& out, const Foo& objectToDisplay)
 ```
 It's given without the `Foo::` scope resolution, like this:
 ```cpp
