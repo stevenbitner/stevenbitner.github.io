@@ -84,8 +84,10 @@ Because of how `<<` is called, it isn't called within the **context** of a class
 Thus, when we define it, it is not resolved to the scope of the class.
 Above, see that the function declaration isn't given like this:
 ```cpp
-friend std::ostream& Foo::operator<< (std::ostream& out, const Foo& objectToDisplay)
-```
+class Foo
+{
+	friend std::ostream& Foo::operator<< (std::ostream& out, const Foo& objectToDisplay)
+};```
 It's given without the `Foo::` scope resolution, like this:
 ```cpp
 friend std::ostream& operator<< (std::ostream& out, const Foo& objectToDisplay)
