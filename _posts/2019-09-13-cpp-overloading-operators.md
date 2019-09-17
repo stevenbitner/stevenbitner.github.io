@@ -42,9 +42,14 @@ Each class that gets built might have a different variation on what is created.
 Sure, you can find the API in the header file and know the name, but why bother having to look it up each time you want to display an object.
 You can also try to fix this through coding standards, but enforcement can become burdensome and a standard for outputting things already exists in C++, it is `<<`.
 
+## Sample from a header (.hpp) file
+```cpp
+friend std::ostream& operator<< (std::ostream& out, const Foo& objectToDisplay);
+```
+
 ## Sample from an implementation (.cpp) file
 ```cpp
-friend std::ostream& operator<< (std::ostream& out, const Foo& objectToDisplay)
+std::ostream& operator<< (std::ostream& out, const Foo& objectToDisplay)
 {
 	out << "This Foo is great. It's value is " << objectToDisplay.value;
 	return out; // must return the stream object to enable chaining
