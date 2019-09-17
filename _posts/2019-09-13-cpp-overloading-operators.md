@@ -87,7 +87,8 @@ Above, see that the function declaration isn't given like this:
 class Foo
 {
 	friend std::ostream& Foo::operator<< (std::ostream& out, const Foo& objectToDisplay)
-};```
+};
+```
 It's given without the `Foo::` scope resolution, like this:
 ```cpp
 friend std::ostream& operator<< (std::ostream& out, const Foo& objectToDisplay)
