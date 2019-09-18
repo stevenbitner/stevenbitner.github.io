@@ -85,6 +85,7 @@ We're computer scientists and software developers, we've all been in the friend 
 Notice in the sample implementation for `operator<<` [above](#sample-from-an-implementation-cpp-file) we access the data member `value` of the `Foo` instance.
 If we've encapsulated our data properly, then those data members are private, thus not accessible outside of our `Foo` class.
 But this operator is one that we _trust_ so we're going to allow it to access those members anyway.
+Just like in real life, we share our private information with our friends.
 You can argue the merits of this approach versus its violation of pure encapsulation, but that is another discussion that is primarily a battle of louder opinions.
 
 Why do we need it though, I mean this function would (presumably) be in the implementation file for `Foo`.
