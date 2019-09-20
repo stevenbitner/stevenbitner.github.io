@@ -52,6 +52,9 @@ Myclass ()
 }
 ```
 
+If you put the variable type in front of the variable name, you are **declaring** a variable.
+That variable will have a local scope and is lost upon completion of the constructor function.
+
 ## Initialization List
 If one class contains another class, you might run into issues if no default constructor exists for the _contained_ class instance.
 This is because of how C++ calls constructors.
