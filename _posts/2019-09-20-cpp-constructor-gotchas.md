@@ -63,7 +63,9 @@ If a class contains another class, it will initialize the variable by using a de
 This is not an issue if a default constructor exists, but if one does not your code will not compile.
 
 > bar.cpp\|9 col 3 error\| constructor for 'Bar' must explicitly initialize the member 'myFoo' which does not have a default constructor
+
 > bar.cpp\|6 col 7 error\| note: member is declared here
+
 > foo.cpp\|1 col 7 error\| note: 'Foo' declared here
 
 
