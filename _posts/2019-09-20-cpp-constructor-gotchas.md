@@ -8,8 +8,13 @@ tags:
   - local vs class variables
 ---
 
+It is very common to have some difficulty when constructing custom classes in C++.
+Below I'll discuss what tend to be the two most common problems I see with student submissions.
+The first is local scope vs instance variables.
+The second is a lack of default constructors.
+
 ## Scope
-![Don't Hassle Me, I'm Local shirt from What About Bob](images/im-local.jpg)
+![Don't Hassle Me, I'm Local shirt from What About Bob](/images/im-local.jpg)
 
 A very common issue comes from forgetting about the concept of variable scope in C++.
 Any time we call a function (and a constructor is just a function, after all) we can declare local variables inside that function.
