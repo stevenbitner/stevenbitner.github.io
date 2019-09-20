@@ -65,7 +65,7 @@ foo.cpp|1 col 7 error| note: 'Foo' declared here
 
 
 _**foo.cpp**_
-```cpp {.line-numbers}
+```cpp
 class Foo
 {
 	private:
@@ -77,7 +77,7 @@ class Foo
 ```
 
 _**bar.cpp**_
-```cpp {.line-numbers}
+```cpp
 #include "foo.cpp"
 
 class Bar
@@ -91,6 +91,7 @@ class Bar
 			myFoo = Foo(12);
 		}
 };
+```
 
 So, what if you cannot make changes to the class to add a default constructor?
 Or perhaps you just don't think a default constructor makes sense.
