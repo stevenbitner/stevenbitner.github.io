@@ -13,7 +13,7 @@ It's a remarkably rigid language and it requires that a programmer cross all of 
 ## Undefined Behavior
 ![Schrodinger's cat joke](/images/schrodingers-cat.jpg)
 
-For the authoritative reference, see https://en.cppreference.com/w/c/language/behavior.
+For the authoritative reference, see [https://en.cppreference.com/w/c/language/behavior](https://en.cppreference.com/w/c/language/behavior).
 
 ### When Might This Happen?
 If you declare variables without initializing them, you'll inevitably have problems.
