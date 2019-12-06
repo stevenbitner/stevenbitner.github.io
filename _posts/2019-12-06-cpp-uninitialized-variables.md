@@ -46,10 +46,10 @@ int main ()
 ```
 
 Compiling your code with the `-Wuninitialized` (or `-Wall` which will report other warnings as well) flag will detect the use of uninitialized scalar values. 
-> **foo.cpp:** In function **`int main()`**:\
-> **foo.cpp:6:2:** _warning:_ `b` is used uninitialized in this function [-Wuninitialized]\
->   if (b)\
->   ^\
+> **foo.cpp:** In function **`int main()`**:<br />
+> **foo.cpp:6:2:** _warning:_ `b` is used uninitialized in this function [-Wuninitialized]<br />
+>   if (b)<br />
+>   ^<br />
 > False
 
 ### This Won't Work On the Hard Stuff
