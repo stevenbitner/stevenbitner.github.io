@@ -72,7 +72,7 @@ So, in just a second or two, we know to check our array bounds, most likely due 
 ## GDB
 GDB is a powerful debugger that allows a programmer to step through their code line by line and probe any variable for its value at that step of execution.
 It has a lot of capability beyond what can be addressed in a simple primer.
-A very useful cheat sheet that I always have a printed copy of on my desk can be found here https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf.
+A very useful cheat sheet that I always have a printed copy of on my desk can be found here [https://darkdust.net/files/GDB Cheat Sheet.pdf](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf).
 
 First and foremost, GDB will need some specific information injected into the executable that needs to be debugged.
 This requires compiling all of our code with the `-g` flag.
