@@ -152,6 +152,7 @@ Searching for a seg fault in 100 lines of code shouldn't require "toggling" smal
 
 
 ## Comparison
+
 | Tool        | Does not require recompiling | Fast             | Easy to use | Easy to understand |
 | :---        | :--:                         | :---:            | :---:       | :---:              |
 | Valgrind    | X                            | X                | X           |                    |
