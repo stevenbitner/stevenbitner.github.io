@@ -7,7 +7,7 @@ tags:
   - Static Linting
 ---
 
-Vim is by no means the only code editing tool out there...it's simply the best :grin:.
+Vim is by no means the only code editing tool out there...it's just the best one :grin:.
 It is highly customizable, and if you choose it as your editor you will modify it over time to suit your needs.
 For beginners, a very simple setup can go a long way in helping to develop code.
 
@@ -54,4 +54,4 @@ git clone --depth=1 https://github.com/vim-syntastic/syntastic.git ~/.vim/bundle
 
 That's it.
 Pathogen will handle the loading of the plugin for you and nothing more should be needed.
-The README files for both Pathogen and Syntastic have other options etc that you might be interested in, but this should get you up and running.
+The README files for both Pathogen and Syntastic have other options that you might be interested in, but this should get you up and running.
