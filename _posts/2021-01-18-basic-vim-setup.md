@@ -1,6 +1,6 @@
 ---
 title: 'Basic Vim Setup'
-date: 2021-01-19
+date: 2021-01-18
 permalink: /posts/2021/01/basic-vim-setup/
 tags:
   - Vim
