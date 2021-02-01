@@ -11,6 +11,8 @@ Vim is by no means the only code editing tool out there...it's just the best one
 It is highly customizable, and if you choose it as your editor you will modify it over time to suit your needs.
 For beginners, a very simple setup can go a long way in helping to develop code.
 
+![Display of syntax error feedback in Vim](/images/error-tray.jpg)
+
 ## TL/DR
 Don't want to read?
 Copy/paste the following block in your terminal, if it works (and you don't care why), no need to read on.
@@ -37,7 +39,7 @@ mkdir -p ~/.vim/autoload ~/.vim/bundle && \
 curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
 ```
 
-**If you're using Windows, change all occurrences of ~/.vim to ~\vimfiles**
+**If you're using Windows _(not applicable if using Ubuntu or other Linux systems inside Windows)_, change all occurrences of ~/.vim to ~\vimfiles**
 
 ## ~/.vimrc
 This is the configuration file for Vim and is likely to grow a lot over time if you use Vim a lot.
