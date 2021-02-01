@@ -7,7 +7,7 @@ tags:
   - Static Linting
 ---
 
-Vim is by no means the only code editing tool out there...it's just the best one :grin:.
+Vim is by no means the only code editing tool out there...it's just the best one <g-emoji class="g-emoji" alias="grin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png">😁</g-emoji>.
 It is highly customizable, and if you choose it as your editor you will modify it over time to suit your needs.
 For beginners, a very simple setup can go a long way in helping to develop code.
 
