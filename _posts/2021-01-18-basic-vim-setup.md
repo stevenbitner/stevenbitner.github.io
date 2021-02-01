@@ -18,7 +18,10 @@ Copy/paste the following block in your terminal, if it works (and you don't care
 mkdir -p ~/.vim/autoload ~/.vim/bundle && \
 curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim && \
 printf '%s\n' '' '"Plugin manager' 'execute pathogen#infect()' \
-'"Syntax help' 'syntax on' 'filetype plugin indent on' '' >> ~/.vimrc && \
+'"Syntax help' 'syntax on' 'filetype plugin indent on' '' \
+'let g:syntastic_cpp_check_header = 1' 'let g:syntastic_auto_loc_list = 1' \
+'let g:syntastic_always_populate_loc_list = 1' \
+'let g:syntastic_check_on_open = 1' 'let g:syntastic_check_on_wq = 0' '' >> ~/.vimrc && \
 git clone --depth=1 https://github.com/vim-syntastic/syntastic.git ~/.vim/bundle/syntastic
 ```
 
@@ -42,7 +45,11 @@ Add pathogen loading to your vim config file.
 If you aren't sure how to do that, running this command will add the necessary content to your config
 ```bash
 printf '%s\n' '' '"Plugin manager' 'execute pathogen#infect()' \
-'"Syntax help' 'syntax on' 'filetype plugin indent on' '' >> ~/.vimrc
+'"Syntax help' 'syntax on' 'filetype plugin indent on' '' \
+'let g:syntastic_cpp_check_header = 1' 'let g:syntastic_auto_loc_list = 1' \
+'let g:syntastic_always_populate_loc_list = 1' \
+'let g:syntastic_check_on_open = 1' 'let g:syntastic_check_on_wq = 0' '' >> ~/.vimrc && \
+>> ~/.vimrc
 ```
 
 ## Syntastic
