@@ -11,7 +11,7 @@ Vim is by no means the only code editing tool out there...it's just the best one
 It is highly customizable, and if you choose it as your editor you will modify it over time to suit your needs.
 For beginners, a very simple setup can go a long way in helping to develop code.
 
-![Display of syntax error feedback in Vim](/images/error-tray.jpg)
+![Display of syntax error feedback in Vim](/images/error-tray.png)
 
 ## TL/DR
 Don't want to read?
