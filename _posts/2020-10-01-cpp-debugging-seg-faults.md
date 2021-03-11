@@ -83,7 +83,7 @@ This is a great time to run `make clean`, assuming you have a well-defined `clea
 
 Now that you have recompiled with `-g` flags, you can fire up the debugger.
 The `-tui` flag below opens the source code in the top half of the screen which is great for adding some context to where the program is in the execution.
-`gdb -tui a./out`
+`gdb -tui a.out`
 
 If files were built with `-g`, the symbol table should load and GDB is ready to use.
 The first thing that is typically needed is to add one or more breakpoints.
