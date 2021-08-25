@@ -2,7 +2,7 @@
 title: "Nifty Assignments"
 collection: publications
 permalink: /publication/nifty-2021
-excerpt: 'We disuss the problem of finding the minimum-sum dipolar spanning tree (MSST) in three dimensions.'
+excerpt: 'The Nifty Assignments special session is about promoting and sharing the ideas and ready-to-use materials of successful assignments'
 date: 2021-03-20
 venue: 'SIGCSE 2021'
 paperurl: 'https://dl.acm.org/doi/10.1145/3408877.3439501'
