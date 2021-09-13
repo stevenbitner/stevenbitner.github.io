@@ -3,7 +3,7 @@ title: "Utilizing Test-Driven Development in a Data Structures Course"
 collection: talks
 type: "Conference presentation"
 permalink: /talks/tdd-as-pedagogy
-venue: "F"
+venue: "FECC 2021"
 date: 2021-07-23
 location: "Las Vegas, NV"
 ---
