@@ -1,7 +1,7 @@
 ---
 title: 'Debugging Segmentation Faults in C++'
 date: 2020-10-01
-permalink: /posts/2020/10/cpp-debugging-seg-faults/
+permalink: /posts/cpp-debugging-seg-faults/
 tags:
   - C++
   - debugging

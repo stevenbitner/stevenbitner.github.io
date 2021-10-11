@@ -1,7 +1,7 @@
 ---
 title: 'Basic Vim Setup'
 date: 2021-01-18
-permalink: /posts/2021/01/basic-vim-setup/
+permalink: /posts/basic-vim-setup/
 tags:
   - Vim
   - Static Linting

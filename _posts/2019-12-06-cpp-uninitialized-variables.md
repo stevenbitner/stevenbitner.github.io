@@ -1,7 +1,7 @@
 ---
 title: 'Uninitialized variables in C++'
 date: 2019-09-20
-permalink: /posts/2019/12/cpp-uninitialized-variables/
+permalink: /posts/cpp-uninitialized-variables/
 tags:
   - C++
   - undefined behavior

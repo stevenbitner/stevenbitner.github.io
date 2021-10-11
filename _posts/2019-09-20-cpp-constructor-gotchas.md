@@ -1,7 +1,7 @@
 ---
 title: 'Common Constructor Mistakes in C++'
 date: 2019-09-20
-permalink: /posts/2019/09/cpp-constructor-gotchas/
+permalink: /posts/cpp-constructor-gotchas/
 tags:
   - C++
   - constructors

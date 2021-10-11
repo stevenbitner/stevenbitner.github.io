@@ -1,7 +1,7 @@
 ---
 title: 'Operator Overloading in C++'
 date: 2019-09-13
-permalink: /posts/2019/09/cpp-operator-overloading/
+permalink: /posts/cpp-operator-overloading/
 tags:
   - C++
   - operators
