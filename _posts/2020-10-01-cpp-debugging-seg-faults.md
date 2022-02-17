@@ -69,6 +69,8 @@ This Valgrind output indicates that my program is trying to access something out
 This almost certainly comes from defining an array of size **n** and trying to access element **n+1** which would be index **n**.
 So, in just a second or two, we know to check our array bounds, most likely due to an improperly defined `for` loop.
 
+**For a bit more insight, recompile your program with the `-g` flag and you'll probably get the line number where the violation occurred.**
+
 ## GDB
 GDB is a powerful debugger that allows a programmer to step through their code line by line and probe any variable for its value at that step of execution.
 It has a lot of capability beyond what can be addressed in a simple primer.
