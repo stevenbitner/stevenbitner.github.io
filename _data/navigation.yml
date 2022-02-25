@@ -9,8 +9,11 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Ramblings"
+  - title: "Programming"
     url: /year-archive/
+
+  - title: "Sailing"
+    url: /sea-horse/
 
   - title: "CV"
     url: /cv/
