@@ -1,6 +1,6 @@
 ---
 title: "\"Are you qualified to do something like this?\""
-excerpt: "No. I’m totally not - with caveats<br /><img width='500px' src='/images/sailing-blog/solveig.jpg' alt='Solveig' />"
+excerpt: "No. I’m totally not - with caveats<br /><img width='500px' src='/images/sailing-blog/solveig.jpeg' alt='Solveig' />"
 collection: portfolio
 date: 2016-02-07
 ---
