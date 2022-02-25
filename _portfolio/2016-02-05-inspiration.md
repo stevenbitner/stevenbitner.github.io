@@ -1,11 +1,11 @@
 ---
 title: "Inspiration"
-excerpt: "We're going cruising<br /><img width='500px' src='images/oia.jpg' alt='Sea Horse' />"
+excerpt: "We're going cruising<br /><img width='500px' src='/images/sailing-blog/oia.jpg' alt='Sea Horse' />"
 collection: portfolio
 date: 2016-02-05
 ---
 
-![Sea Horse](images/oia.jpg)
+![Sea Horse](/images/sailing-blog/oia.jpg)
 
 No clue where to start. I just wanted to get this thing started as a place where we can point people who might be interested in our plan to spend every moment of roughly five years or more growing together as a family.
 
@@ -17,7 +17,7 @@ Anyone who has met me or Grete knows that we are not always too concerned with w
 
 We have 18 years with our children before they leave and become a (hopefully) frequent phone call and annual visit. That’s life, and it’s not one of the good parts. Whether or not you agree, we think our kids are AMAZING. We want to spend as much time as we possibly can with them. Teaching them; learning from them; and just exploring places, cultures, languages and life together.
 
-![Fira]()
+![Fira](/images/sailing-blog/fira.jpeg)
 
 I have worked a minimum of two jobs for most of my adult life. I work hard and worked hard in school for nearly 8 years to gain a solid education that would set me up for a successful professional life. I have no reason to be sorry for that. However, the 50-70 hours a week I work is all missed time with my family.
 
@@ -29,7 +29,7 @@ So, we made the decision a few years ago that we wanted to take a few years away
 
 In all seriousness, we know it’s going to be hard. Luckily, Grete and I excel in different subjects and both worked as tutors while going to college. I taught computer science as an adjunct professor for a couple of semesters and had the highest reviews in the department. I realize it’s different, but just throwing it out there that we are not a couple of bumpkins with no clue about what education can and should entail.
 
-![Dublin]()
+![Dublin](/images/sailing-blog/dublin.jpeg)
 
 How about the cost? It will be extremely expensive to do what we want to do. Starting in 2013, we started saving. Aggressively. We continue to do so now. We have read a lot of books and blogs written by others who have already done what we intend to do. Our favorite active one is http://www.sailingtotem.com. So, we may not know exactly how much it will cost us, but we have many estimates of what it has cost others and are using this as a general guideline.
 
