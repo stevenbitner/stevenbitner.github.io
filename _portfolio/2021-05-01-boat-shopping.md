@@ -19,4 +19,7 @@ A couple of months passed and we made an offer on a boat that was immediately re
 
 ![Me and Dublin on a fan boat](/images/sailing-blog/fan-boat.jpeg)
 
-https://stevenbitner.github.io/images/sailing-blog/fan-boat-ride.mp4
+<video width="770" height="577" controls>
+	<source src="/images/sailing-blog/fan-boat-ride.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+</video>
