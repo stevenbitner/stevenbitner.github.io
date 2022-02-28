@@ -11,9 +11,9 @@ As I already said in my previous post, the veteran’s program through Outward B
 
 Each day started the same way. Wake up and do a 5-10 minute stretching and calisthenics routine. Now, we were 10 people on a 30 foot boat, so the exercises were limited, but more than anything were just a way to get the blood flowing and warm up your back after a short night of sleep on a pile of oars (more on that later).
 
-After the warm-up, came the cool down. If you’ve never swam in the ocean off the Maine Coast in May, you don’t know cold. It knocks the wind right out of you. Every morning, each person has to get in the water to freshen up. I can say it kind of worked. We were pretty cramped for a week and I don’t recall anyone being smelly. Probably means I was the smelly one, but still.
+After the warm-up, came the cool down. If you have never swam in the ocean off the Maine Coast in May, you don’t know cold. It knocks the wind right out of you. Every morning, each person has to get in the water to freshen up. I can say it kind of worked. We were pretty cramped for a week and I don’t recall anyone being smelly. Probably means I was the smelly one, but still.
 
-Then we’d eat breakfast. All facilities (and I mean all facilities, see below for a picture of me on the toilet -not using it at the time) on a 30 foot open top pulling sailboat are quite spartan so meal prep was interesting. Basically we cooked on a camping stove in the cockpit for all of our hot meals. Dishes are cleaned over the side of the boat in the salt water.
+Then we’d eat breakfast. All facilities (and I mean all facilities, see below for a picture of me on the toilet - not using it at the time) on a 30 foot open top pulling sailboat are quite spartan so meal prep was interesting. Basically we cooked on a camping stove in the cockpit for all of our hot meals. Dishes are cleaned over the side of the boat in the salt water.
 
 ![Brad cooking](/images/sailing-blog/brad-cooking.jpeg)
 
@@ -21,11 +21,11 @@ Next came class. We would cover a nautical topic, such as points of sail, knot t
 
 ![Rowing](/images/sailing-blog/rowing.jpeg)
 
-We’d spend the day sailing and toward sundown pull into a nice spot to drop the hook for the night. Once we set the anchor (kind of an ordeal without an engine, but on a pulling boat you always have the oars), we’d immediately transform the boat into a campsite. First the booms get lashed to the fore and aft masts, creating an overhead. Then an elaborate system of lashed lines forms the skeleton for the tent. Cover it up with a water-proof tarp, and your got the core. Then, all of the oars are unlashed and spread out to cover up the storage holes (where people’s legs are below). That’s the bed.
+We’d spend the day sailing and toward sundown pull into a nice spot to drop the hook for the night. Once we set the anchor (kind of an ordeal without an engine, but on a pulling boat you always have the oars), we’d immediately transform the boat into a campsite. First the booms get lashed to the fore and aft masts, creating an overhead. Then an elaborate system of lashed lines forms the skeleton for the tent. Cover it up with a water-proof tarp, and you have got the core. Then, all of the oars are un-lashed and spread out to cover up the storage holes (where people’s legs are below). That’s the bed.
 
 ![Hanging out under the tarp](/images/sailing-blog/under-the-tarp.jpeg)
 
-The course is supposed to, above all else, force some introspection and discomfort. It has both in spades. Every day when we’d anchor, we would have 15 minutes or so of time where no one was allowed to move around or talk. We were only allowed to write in journals or otherwise reflect on the day. After dinner, we would all get together for guided discussions with the two staff leaders. Deep conversations that were both introspective and, at times due to the highly personal details being shared, uncomfortable.
+The course is supposed to, above all else, force some introspection and discomfort. It has both in spades. Every day when we would anchor, we would have 15 minutes or so of time where no one was allowed to move around or talk. We were only allowed to write in journals or otherwise reflect on the day. After dinner, we would all get together for guided discussions with the two staff leaders. Deep conversations that were both introspective and, at times due to the highly personal details being shared, uncomfortable.
 
 ![Relaxing and reflecting](/images/sailing-blog/feet-up.jpeg)
 
