@@ -31,7 +31,7 @@ In all seriousness, we know it’s going to be hard. Luckily, Grete and I excel 
 
 ![Dublin](/images/sailing-blog/dublin.jpeg)
 
-How about the cost? It will be extremely expensive to do what we want to do. Starting in 2013, we started saving. Aggressively. We continue to do so now. We have read a lot of books and blogs written by others who have already done what we intend to do. Our favorite active one is http://www.sailingtotem.com. So, we may not know exactly how much it will cost us, but we have many estimates of what it has cost others and are using this as a general guideline.
+How about the cost? It will be extremely expensive to do what we want to do. Starting in 2013, we started saving. Aggressively. We continue to do so now. We have read a lot of books and blogs written by others who have already done what we intend to do. Our favorite active one is [http://www.sailingtotem.com](http://www.sailingtotem.com). So, we may not know exactly how much it will cost us, but we have many estimates of what it has cost others and are using this as a general guideline.
 
 $200,000 – $300,000 is what we need. We’ll blow through that (well, we’ll sell the boat at the end so some of that money will come back to us). To some folks, that is not very much money, to others, that is more money than they would ever be able to put aside. We are right in the sweet spot. We have to work very hard and make sacrifices every day, not keeping up with the Joneses, but it is attainable. We are on pace to do exactly that.
 
