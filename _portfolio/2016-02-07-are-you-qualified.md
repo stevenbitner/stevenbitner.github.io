@@ -14,10 +14,12 @@ I have recently started doing some lake sailing near Kansas City just to get my 
 For what it’s worth, I have been in the Navy in some capacity or other for over 20 years. I have been to sea a time or two.
 
 ![Solveig](/images/sailing-blog/solveig.jpeg)
+<small><em>My boat, Solveig sitting at the pier in Rainbow Bay Marina, Pearl Harbor, HI ~2000</em></small>
 
 I lived on an amazing sailboat ([Solveig](https://en.wikipedia.org/wiki/1953_Sydney_to_Hobart_Yacht_Race)) for just shy of three years when I was stationed in Pearl Harbor. I sailed that boat quite a bit on the leeward side of Oahu and also did some island hopping, twice crossing the Kaiwi Channel. This channel frequently has ~20 foot swells and winds in excess of 60 knots, and my crossings were no exception. It has a reputation of being one of the toughest ocean channels in the world.
 
 ![After 44 hours of getting beaten up on a hard tack from Oahu to Hawai’i](/images/sailing-blog/me-and-randy.jpeg)
+<small><em>After 44 hours of getting beaten up on a hard tack from Oahu to Hawai’i</em></small>
 
 So I have been beaten around by the sea. I also volunteered for three weeks on the tall ship Lady Washington just over eleven years ago. I went aloft and packed sails, tarred the rigging and various other tasks as we moved down the California coast from Marina del Rey to San Diego.
 

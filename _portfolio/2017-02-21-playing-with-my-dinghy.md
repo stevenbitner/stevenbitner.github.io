@@ -6,6 +6,7 @@ date: 2017-02-21
 ---
 
 ![14 foot Hobie](/images/sailing-blog/dinghy.jpeg)
+<small><em>Sailing on Lake Waukomis in my 12′ Hobie Holder on New Year’s Day</em></small>
 
 I have played around with my dinghy a lot over the last year, and I have learned a lot.
 
@@ -20,7 +21,7 @@ After about 10 minutes of the sail and boom shoving me onto the dock and boat he
 The rudder on my boat is made for driving the boat up onto a sandy shore at the end of your sail. It’s called a kick-up rudder and is a pretty neat concept. The trouble is, if the rudder is kicked-up, it does not give you much control over direction. So after my painful and embarrassing departure from my dock, I was basically adrift at the whim of the wind. I figured it out after a few minutes and finally had control of my direction.
 
 ![Kick-up rudder](/images/sailing-blog/rudder.gif)
-<br /><em>Rudder in standard and kicked-up position</em>
+<small><em>Rudder in standard and kicked-up position</em></small>
 
 Now I was sailing. I quickly traversed the broad water in the main part of Lake Waukomis. I came about to head back toward my home dock and a nice gust of wind came. I was for the first time experiencing the thrill of a hard-heeling dinghy, and I was in love.
 
@@ -33,12 +34,10 @@ At this point, obviously I had made the call to sail home as directly as possibl
 After about 50 meters, another gust of wind came and I was capsized. Luckily, my boat is small and light and righting her was very easy. After another several minutes of struggling, with several neighbors out watching (and snickering), I finally made it back to my dock beaten but not defeated.
 
 ![Crazy route](/images/sailing-blog/route.png)
-<br /><em>An approximation of my route that painful “learning” day</em>
+<small><em>An approximation of my route that painful “learning” day</em></small>
 
 The biggest lesson I learned that day is if you plan to take your spouse sailing for several years with your children aboard and she’s never seen you sail before, do not let her watch that first time. Grete completely lost faith in me that day and was a bit uneasy until the next time I went out on the water and used my head a bit more.
 
 Over the course of the summer, I sailed all over the lake many times and it has all been smooth sailing. I sailed well into the fall, and when the lake thawed on December 31st I decided to take the old girl out to start the new year.
 
 Sailing our dinghy has been a lot of fun and I look forward to introducing the concepts of sailing to Grete and the kids over the coming summers on this stout little yellow lady.
-
-
