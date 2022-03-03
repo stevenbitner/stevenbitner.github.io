@@ -1,13 +1,13 @@
 ---
 title: "Cuttyhunk Island"
-excerpt: "Solo trip to Cuttyhunk with Coaster's Harbor Naval Yacht Club <br /><img width='500px' src='/images/sailing-blog/island-house.jpeg' alt='Brightside' />"
+excerpt: "Solo trip to Cuttyhunk with Coaster's Harbor Navy Yacht Club <br /><img width='500px' src='/images/sailing-blog/island-house.jpeg' alt='Brightside' />"
 collection: portfolio
 date: 2017-07-10
 ---
 
 I don’t want to throw my shoulder out patting myself on the back or anything, but I’m a noticeably better sailor as my time here in Newport goes along. This past weekend I sailed over to Cuttyhunk Island. Cuttyhunk is a tiny island about 30 miles or so from my home berth in Portsmouth. It is the western-most of the Elizabeth Islands and is not too far away from Martha’s Vineyard.
 
-The yacht club on base ([Coaster’s Harbor Naval Yacht Club](http://chnyc.us/)) had planned a group trip down there, which meant I’d have access to a tender to get ashore, so I went. Cuttyhunk does not have much in the way of facilities, to include the total lack of a launch service so on any other weekend I’d have to swim back and forth from shore.
+The yacht club on base ([Coaster’s Harbor Navy Yacht Club](http://chnyc.us/)) had planned a group trip down there, which meant I’d have access to a tender to get ashore, so I went. Cuttyhunk does not have much in the way of facilities, to include the total lack of a launch service so on any other weekend I’d have to swim back and forth from shore.
 
 I left just after 6AM and drove south until Brenton Point. The wind was directly from the south and the tide was coming in so rather than take all day just to get out into the sound, I drove. The bad part about going someplace when you only have 2 days to get there and back is that you run the motor more than you want to.
 
