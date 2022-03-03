@@ -6,7 +6,7 @@ date: 2016-10-17
 ---
 
 ![Sally M at anchor](/images/sailing-blog/sally-m.jpeg)
-<small><em>Our boat, Sally M at anchor</em></small>
+<br /><small><em>Our boat, Sally M at anchor</em></small>
 
 As I already said in my previous post, the veteran’s program through Outward Bound is amazing. I would recommend it to everyone, even people that I don’t think would like it that much. One of the other vets on the trip had a saying, “We do hard things, so we can do harder things.” It really sums up so many aspects of life, but definitely one of the main facets of adventure travel to me.
 
@@ -17,29 +17,29 @@ After the warm-up, came the cool down. If you have never swam in the ocean off t
 Then we’d eat breakfast. All facilities (and I mean all facilities, see below for a picture of me on the toilet - not using it at the time) on a 30 foot open top pulling sailboat are quite spartan so meal prep was interesting. Basically we cooked on a camping stove in the cockpit for all of our hot meals. Dishes are cleaned over the side of the boat in the salt water.
 
 ![Brad cooking](/images/sailing-blog/brad-cooking.jpeg)
-<small><em>Brad getting some hot coffee ready to warm us up after the morning dip in the drink</em></small>
+<br /><small><em>Brad getting some hot coffee ready to warm us up after the morning dip in the drink</em></small>
 
 Next came class. We would cover a nautical topic, such as points of sail, knot tying, or navigation for about a half hour or so and then it was time to rig for underway.
 
 ![Rowing](/images/sailing-blog/rowing.jpeg)
-<small><em>The wind was a bit spotty at times and when you are becalmed on a pulling sailboat, you grab the oars. They aren’t just for show, or for their boundless comfort as mattresses.</em></small>
+<br /><small><em>The wind was a bit spotty at times and when you are becalmed on a pulling sailboat, you grab the oars. They aren’t just for show, or for their boundless comfort as mattresses.</em></small>
 
 We’d spend the day sailing and toward sundown pull into a nice spot to drop the hook for the night. Once we set the anchor (kind of an ordeal without an engine, but on a pulling boat you always have the oars), we’d immediately transform the boat into a campsite. First the booms get lashed to the fore and aft masts, creating an overhead. Then an elaborate system of lashed lines forms the skeleton for the tent. Cover it up with a water-proof tarp, and you have got the core. Then, all of the oars are un-lashed and spread out to cover up the storage holes (where people’s legs are below). That’s the bed.
 
 ![Hanging out under the tarp](/images/sailing-blog/under-the-tarp.jpeg)
-<small><em>Hanging out under the tarp</em></small>
+<br /><small><em>Hanging out under the tarp</em></small>
 
 The course is supposed to, above all else, force some introspection and discomfort. It has both in spades. Every day when we would anchor, we would have 15 minutes or so of time where no one was allowed to move around or talk. We were only allowed to write in journals or otherwise reflect on the day. After dinner, we would all get together for guided discussions with the two staff leaders. Deep conversations that were both introspective and, at times due to the highly personal details being shared, uncomfortable.
 
 ![Relaxing and reflecting](/images/sailing-blog/feet-up.jpeg)
-<small><em>Relaxing and writing in my journal after a cold and windy day at sea</em></small>
+<br /><small><em>Relaxing and writing in my journal after a cold and windy day at sea</em></small>
 
 At night, one person was on the bow as the anchor watch in case something went wrong (nothing did during our week). Since there were 8 vets, and we slept from 10 to 6, we each stood one watch a night for an hour. I was unlucky enough to never have the first or last watch, so my sleep was never contiguous. I was lucky enough to have anchor watch for sunrise one morning, as well as for the only 15 minutes of clear skies we had in 3 days so I was treated to some great Maine star-gazing.
 
 ![Sitting on the toilet!](/images/sailing-blog/on-the-pot.jpeg)
-<small><em>Me sitting on the john</em></small>
+<br /><small><em>Me sitting on the john</em></small>
 
 That’s pretty much all I can remember. Like most good things, it flew by in a flash. If you have any specific questions, let me know and it might spark my memory.
 
 ![Group photo](/images/sailing-blog/harber-barbers.jpeg)
-<small><em>The crew (L-R): Shane, Ben, Steve (me), Kelly, Sheldon, Dan, Tom, Brad, Jamie, and Ryan</em></small>
+<br /><small><em>The crew (L-R): Shane, Ben, Steve (me), Kelly, Sheldon, Dan, Tom, Brad, Jamie, and Ryan</em></small>
