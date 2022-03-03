@@ -2,7 +2,7 @@
 title: "First Sail"
 excerpt: "Took the kids out for their first sail<br /><img width='500px' src='/images/sailing-blog/first-sail.jpeg' alt='Brightside' />"
 collection: portfolio
-date: 2017-08-28
+date: 2017-07-23
 ---
 
 Grete and the kids have finally been sailing. I’ll admit I was nervous and excited to see how well they handled it as well as whether or not they would enjoy themselves. It was perfect on all accounts.
