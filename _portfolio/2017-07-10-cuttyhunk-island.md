@@ -26,7 +26,7 @@ I try to make sure that I don’t give a false impression to Grete. I constantly
 Once I got near the western edge of Cuttyhunk, I landed in some thick fog with about 100 feet of visibility. The wind also died out. So, I doused sail and fired up the diesel. I drove the rest of the way into the harbor.
 
 
-![Cuttyhunk Island, just after breaking through the fog, who’s remnants can be seen on the right edge of the frame.](/images/sailing-blog/fog-ho-helm.jpeg)
+![Cuttyhunk Island, just after breaking through the fog, who’s remnants can be seen on the right edge of the frame.](/images/sailing-blog/fog-ho.jpeg)
 <br /><small><em>Cuttyhunk Island, just after breaking through the fog, who’s remnants can be seen on the right edge of the frame.</em></small>
 
 Once I got into the harbor the fog rolled back in and visibility again dropped to about 100 feet. The harbor is not incredibly well dredged and I bumped something on my way in. My boat had enough momentum to slide past whatever it was though, so no harm done.
