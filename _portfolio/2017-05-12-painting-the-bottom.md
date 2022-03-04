@@ -2,7 +2,7 @@
 title: "Painting the Bottom"
 excerpt: "Bottom job in Casey's Oil shipyard<br /><img width='500px' src='/images/sailing-blog/sunset-at-caseys.jpeg' alt='Brightside' />"
 collection: portfolio
-date: 2017-06-15
+date: 2017-05-11
 ---
 
 Any period in the yards would be time wasted if you didn’t take the chance to slap on a fresh coat of paint.
