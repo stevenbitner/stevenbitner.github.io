@@ -1,6 +1,6 @@
 ---
 title: "Practicing Stopping"
-excerpt: "That was a lot of puke<br /><img width='500px' src='/images/sailing-blog/grilling.jpeg' alt='Brightside' />"
+excerpt: "I need to learn how to anchor and catch a mooring solo<br /><img width='500px' src='/images/sailing-blog/grilling.jpeg' alt='Brightside' />"
 collection: portfolio
 date: 2017-06-15
 ---
