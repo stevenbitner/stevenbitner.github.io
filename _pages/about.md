@@ -18,7 +18,7 @@ I've heard that the day one stops learning new things is the day one becomes out
 I think it's deeper than that for teachers though.
 The day one stops learning is the day one becomes out-of-**touch**.
 
-I had bad teachers and good teachers during my tenure as student.
+I had bad teachers and good teachers during my tenure as a student.
 I thought, "If I were teaching, I'd never...", or "I'd always...".
 But then I graduated.
 I think it's easy to stop having those thoughts and making those resolutions.
