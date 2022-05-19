@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Steve Bitner / GitHub"
 title_separator          : "-"
-name                     : &name "Professor Steve Bitner, PhD"
+name                     : &name "Steve Bitner"
 description              : &description ""
 url                      : https://stevenbitner.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,9 +84,9 @@ analytics:
 author:
   name             : "Steve Bitner"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor, Software Architect"
+  bio              : "Aspiring (often perspiring) sailor<br />family man"
   location         : "Pensacola, FL"
-  employer         : "The University of West Florida"
+  employer         :
   pubmed           :
   googlescholar    :
   email            :
