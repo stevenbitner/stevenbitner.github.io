@@ -17,16 +17,13 @@ Education
 
 Work experience
 ======
-- 2015 - Present
-  - **First Principle Innovators**
+- 2015 - Present: **First Principle Innovators**
   - _Chief Architect_
 
-- 2018 - 2022
-  - **The University of West Florida**
+- 2018 - 2022: **The University of West Florida**
   - _Assistant Professor of Computer Science_
 
-- 1996 - 2017
-	- **US Navy/Navy Reserve**
+- 1996 - 2017: **US Navy/Navy Reserve**
 	- _Submarine warfare, Navy diver (SCUBA), and Information Dominance Warfare Officer qualified_
 	- Retired LT
 
