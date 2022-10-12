@@ -58,6 +58,7 @@ Use `git log <branch> <files>` to see a list of commits on `branch` that edited 
 | Commit all staged files | `git commit -m <Message>` (please use commit messages) |
 
 ### Working with remote servers
+
 | You want to       | Type           |
 | ------------- |:-------------:|
 | Copy a remote git repo to your computer, setting `repo-url` to the remote name `origin` | `git clone <repo-url>`
@@ -68,6 +69,7 @@ Use `git log <branch> <files>` to see a list of commits on `branch` that edited 
 | Delete a remote branch | `git push <remote-name> :<branch-name>` |
 
 ### Branching
+
 | You want to       | Type           |
 | ------------- |:-------------:|
 | Make fork of the commit tree at your current HEAD. This could be any commit, so you could theoretically go back to an old commit and branch off that. | `git checkout -b <new-branch-name>` |
