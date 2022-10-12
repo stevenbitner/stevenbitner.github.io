@@ -8,12 +8,12 @@ tags:
 ---
 
 This primer introduces the basic commands and workflows in the Git™ Version Control System (VCS).
-For a more detailed look at the workings of Git, refer to the free resource hosted as part of the Git open-source project - https://git-scm.com/book
+For a more detailed look at the workings of Git, refer to the free resource hosted as part of the Git open-source project - [git scm book](https://git-scm.com/book).
 
 # Git™ - Quick Primer
 
 A fast-paced introduction to version control and git.
-If you want the full blown experience, see the git scm book: https://git-scm.com/book
+If you want the full blown experience, see the [git scm book](https://git-scm.com/book).
 
 ## What is version control
 Version control is maintaining a detailed report of changes that happen to your codebase.
