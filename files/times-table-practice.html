@@ -1,0 +1,197 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Times Tables Practice</title>
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f0f8ff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      flex-direction: column;
+    }
+    .problem {
+      font-size: 3rem;
+      margin-bottom: 20px;
+    }
+    .result {
+      font-size: 3rem;
+      font-weight: bold;
+    }
+    .race-track {
+      position: relative;
+      width: 100%;
+      height: 200px; /* Adjusted height */
+      margin-top: 20px;
+      border: 1px solid #000;
+    }
+    .horse {
+      position: absolute;
+      width: 100px;
+      height: 100px;
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+    .horse.top {
+      top: 0; /* Adjusted position */
+      background-image: url('https://media2.giphy.com/media/oJMLm3mJRdYV3XhmcX/200.webp?cid=790b7611vxr4j9gyjbokt9ooh9rrcj1aefzxt2hhcljv3et0&ep=v1_gifs_search&rid=200.webp&ct=g');
+    }
+    .horse.bottom {
+      bottom: 0; /* Adjusted position */
+      background-image: url('https://media3.giphy.com/media/M1wXqjp7j4LlwVH3rv/giphy.webp?cid=ecf05e47r5qolknrt1i3ooo9eun65x5juhtp1fcfzl5hykmo&ep=v1_gifs_search&rid=giphy.webp&ct=g');
+    }
+    .finish-line {
+      position: absolute;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      width: 10px;
+      background-color: red;
+    }
+    .timer-container {
+      position: relative;
+      width: 100px;
+      height: 100px;
+      margin-bottom: 20px;
+    }
+    .timer {
+      position: relative;
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      background: conic-gradient(#3498db 0deg, #3498db 0deg, rgba(52, 152, 219, 0.2) 0deg);
+    }
+  </style>
+</head>
+<body>
+  <div class="container text-center">
+    <div class="timer-container">
+      <div id="timer" class="timer"></div>
+    </div>
+    <div id="problem" class="problem">?</div>
+    <input type="number" id="answer" class="form-control" style="font-size: 2rem; text-align: center;" autofocus>
+    <div id="result" class="result"></div>
+    <div class="race-track">
+      <div class="horse top" id="horseTop"></div>
+      <div class="horse bottom" id="horseBottom"></div>
+      <div class="finish-line"></div>
+    </div>
+  </div>
+
+  <script>
+    const problemEl = document.getElementById('problem');
+    const answerEl = document.getElementById('answer');
+    const resultEl = document.getElementById('result');
+    const horseTopEl = document.getElementById('horseTop');
+    const horseBottomEl = document.getElementById('horseBottom');
+    const timerEl = document.getElementById('timer');
+	const maxScore = 10;
+    let score = 0;
+    let timer;
+    let interval;
+    let correctAnswer;
+	let problemInProgress = false;
+	updateScore();
+
+    function generateProblem() {
+      const num1 = Math.floor(Math.random() * 10) + 1;
+      const num2 = Math.floor(Math.random() * 10) + 1;
+      return { num1, num2 };
+    }
+
+    function displayProblem() {
+      const { num1, num2 } = generateProblem();
+      problemEl.textContent = `${num1} x ${num2} = ?`;
+      correctAnswer = num1 * num2;
+    }
+
+    function checkAnswer() {
+      problemInProgress = false;
+      const userAnswer = parseInt(answerEl.value, 10);
+      clearTimeout(timer);
+      clearInterval(interval);
+
+      if (userAnswer === correctAnswer) {
+        problemEl.innerHTML = `${problemEl.textContent.split('=')[0]}= <span class="text-success">${correctAnswer}</span>`;
+        score++;
+      } else {
+        problemEl.innerHTML = `${problemEl.textContent.split('=')[0]}= <span class="text-danger">${correctAnswer}</span>`;
+        score--;
+      }
+
+      updateScore();
+      setTimeout(nextProblem, 1000);
+    }
+
+    function updateScore() {
+      const trackWidth = document.querySelector('.race-track').clientWidth;
+      const finishLine = trackWidth - 100;
+      let horsePosition = finishLine / 2;
+
+      horseTopEl.style.left    = `${horsePosition + ((score * finishLine)/(2 * maxScore))}px`;
+      horseBottomEl.style.left = `${horsePosition - ((score * finishLine)/(2 * maxScore))}px`;
+
+      if (score >= maxScore) {
+        horseTopEl.style.left = `${finishLine}px`;
+        horseBottomEl.style.left = `${0}px`;
+        problemEl.textContent = 'You win!';
+        endGame();
+      } else if (score <= -maxScore) {
+        horseBottomEl.style.left = `${finishLine}px`;
+        horseTopEl.style.left = `${0}px`;
+        problemEl.textContent = 'Some Other Rascal Wins!';
+        endGame();
+      }
+    }
+
+    function nextProblem() {
+      answerEl.value = '';
+      resultEl.textContent = '';
+      if (score > -maxScore && score < maxScore) {
+        displayProblem();
+        startTimer();
+      }
+    }
+
+    function startTimer() {
+      let duration = 5000; // 5 seconds
+      let startTime = Date.now();
+      problemInProgress = true;
+
+      function updateTimer() {
+        let elapsed = Date.now() - startTime;
+        let angle = (elapsed / duration) * 360;
+        timerEl.style.background = `conic-gradient(#3498db ${angle}deg, rgba(52, 152, 219, 0.2) ${angle}deg)`;
+
+        if (elapsed >= duration) {
+          checkAnswer();
+        }
+      }
+
+      updateTimer();
+      interval = setInterval(updateTimer, 100);
+
+      timer = setTimeout(checkAnswer, duration);
+    }
+
+    function endGame() {
+      clearTimeout(timer);
+      clearInterval(interval);
+      answerEl.disabled = true;
+    }
+
+    answerEl.addEventListener('keyup', (event) => {
+      if (problemInProgress && event.key === 'Enter') {
+        checkAnswer();
+      }
+    });
+
+    nextProblem();
+  </script>
+</body>
+</html>
