@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ASUP 2024 Assessment Form</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 1rem;
+      background: #f9f9f9;
+      color: #333;
+    }
+    h1, h2 {
+      text-align: center;
+      margin-bottom: 1rem;
+    }
+    form {
+      max-width: 600px;
+      margin: auto;
+      background: #fff;
+      padding: 1.5rem;
+      border-radius: 10px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    label {
+      display: block;
+      margin-top: 1rem;
+      font-weight: bold;
+    }
+    input[type="text"], input[type="date"], textarea {
+      width: 100%;
+      padding: 0.6rem;
+      margin-top: 0.4rem;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      font-size: 1rem;
+    }
+    textarea {
+      min-height: 100px;
+      resize: vertical;
+    }
+    .checkbox-group {
+      margin-top: 1rem;
+    }
+    .checkbox-group label {
+      display: flex;
+      align-items: center;
+      font-weight: normal;
+      margin-bottom: 0.6rem;
+    }
+    .checkbox-group input {
+      margin-right: 0.6rem;
+    }
+    button {
+      display: block;
+      width: 100%;
+      margin-top: 1.5rem;
+      padding: 0.8rem;
+      background: #007BFF;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      font-size: 1rem;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #0056b3;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>ASUP 2024</h1>
+  <h2>Assessment of Skills and Unsolved Problems</h2>
+
+  <form>
+    <label for="childName">Child's Name:</label>
+    <input type="text" id="childName" name="childName" required>
+
+    <label for="date">Date:</label>
+    <input type="date" id="date" name="date" required>
+
+    <label for="unsolvedProblems">Unsolved Problems:</label>
+    <textarea id="unsolvedProblems" name="unsolvedProblems" placeholder="List unsolved problems here..."></textarea>
+
+    <label for="caregivers">Caregivers' Names:</label>
+    <input type="text" id="caregivers" name="caregivers">
+
+    <h3>Step 1: Skills</h3>
+    <div class="checkbox-group">
+      <label><input type="checkbox" name="skills"> Maintain focus</label>
+      <label><input type="checkbox" name="skills"> Regulate activity level</label>
+      <label><input type="checkbox" name="skills"> Handle transitions, shift from one mindset to another</label>
+      <label><input type="checkbox" name="skills"> Consider the likely outcomes or consequences of actions</label>
+      <label><input type="checkbox" name="skills"> Persist on challenging or tedious tasks</label>
+      <label><input type="checkbox" name="skills"> Sense of time</label>
+      <label><input type="checkbox" name="skills"> Consider a range of solutions to problems</label>
+      <label><input type="checkbox" name="skills"> Flexibly handle ambiguity, uncertainty</label>
+      <label><input type="checkbox" name="skills"> Shift from original idea, plan, or solution</label>
+      <label><input type="checkbox" name="skills"> Express concerns, needs, or thoughts</label>
+      <label><input type="checkbox" name="skills"> Understand what is being communicated by others</label>
+      <label><input type="checkbox" name="skills"> Appreciate how their actions affect others</label>
+      <label><input type="checkbox" name="skills"> Regulate emotional response</label>
+      <label><input type="checkbox" name="skills"> Empathize with others</label>
+      <label><input type="checkbox" name="skills"> Interoception (awareness of body)</label>
+      <label><input type="checkbox" name="skills"> Tolerate/manage the sensory environment</label>
+    </div>
+
+    <button type="submit">Submit</button>
+  </form>
+
+</body>
+</html>
